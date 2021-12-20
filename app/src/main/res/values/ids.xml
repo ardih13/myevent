@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="menu_create_event" type="id"/>
+    <item name="menu_my_event" type="id"/>
+
+    <item name="menu_daftar_karyawan" type="id"/>
+    <item name="menu_reservasi_meeting" type="id"/>
+
+    <item name="menu_pengajuan_cuti" type="id"/>
+    <item name="menu_absensi" type="id"/>
+
+</resources>

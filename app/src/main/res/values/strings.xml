@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Event</string>
+
+    <!--   Menu -->
+    <string name="menu_create_event">Buat\nEvent</string>
+    <string name="menu_my_event">Event\nSaya</string>
+    <string name="menu_daftar_karyawan">Daftar\nKaryawan</string>
+    <string name="menu_reservasi_meeting">Reservasi\nMeeting</string>
+    <string name="menu_pengajuan_cuti">Pengajuan\nCuti</string>
+    <string name="menu_absensi">Absensi</string>
+
+    <string name="email_atau_nomor_ponsel">Email atau Nomor Ponsel</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="ingat_saya">Ingat Saya</string>
+    <string name="lupa_kata_sandi">Lupa kata sandi?</string>
+    <string name="masuk">Masuk</string>
+    <string name="image">image</string>
+    <string name="halo_selamat_pagi">Halo Selamat Pagi.</string>
+    <string name="john_doe_simalakama">John Doe Simalakama</string>
+    <string name="jul">JUL</string>
+    <string name="_13">13</string>
+    <string name="android_training_day">Android Training Day</string>
+    <string name="conference_room_elevenia_f30">Conference Room - Elevenia F30</string>
+    <string name="event_terbaru">Event Terbaru</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="_13_july_09_00">13 JULY - 09:00</string>
+    <string name="menu">Menu</string>
+    <string name="title">Title</string>
+    <string name="semua_event">Semua Event</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="nama_event">Nama Event</string>
+    <string name="lokasi_event">Lokasi Event</string>
+    <string name="tanggal_event">TANGGAL EVENT</string>
+    <string name="pukul">Pukul</string>
+    <string name="tanggal_dari">Tanggal Dari</string>
+    <string name="tanggal_hingga">Tanggal Hingga</string>
+    <string name="deskripsi_event">DESKRIPSI EVENT</string>
+    <string name="text_information_image">Pilih gambar yang sesuai dengan event Anda. Kami merekomendasikan menggunakan 2160x1080 px dan gambar tidak lebih besar dari 10MB</string>
+    <string name="tambahkan_gambar_event">TAMBAHKAN GAMBAR EVENT</string>
+    <string name="masukan_deskripsi_event_anda">Masukan deskripsi event Anda.</string>
+    <string name="penyelenggara_acara">PENYELENGGARA ACARA</string>
+    <string name="jhon_doe">Jhon Doe</string>
+    <string name="buat_event">Buat Event</string>
+
+    <!--Dialog Pilih Gambar Produk-->
+    <string name="pilih_gambar_event">Pilih Gambar Event</string>
+    <string name="ambil_dari_kamera">Ambil dari kamera</string>
+    <string name="ambil_dari_galeri">Ambil dari galeri</string>
+    <string name="gagal_mendapatkan_gambar">Gagal Mendapatkan gambar!</string>
+    <string name="batal">Batal</string>
+    <string name="event_berhasil_disimpan">Event Berhasil Disimpan</string>
+    <string name="kamu_telah_berhasil_membuat_event_baru">Kamu telah berhasil membuat event baru</string>
+    <string name="ok">Ok</string>
+</resources>

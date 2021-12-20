@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/background_home.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/button_green.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/button_navy.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/button_orange.xml" value="0.23055555555555557" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_circle.xml" value="0.23055555555555557" />
+        <entry key="app/src/main/res/drawable/ic_circle_blue.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_circle_white.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_create_event.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_default.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_my_event.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_no_image.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_notif.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_notification.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_registration.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/ic_success_orange.xml" value="0.23055555555555557" />
+        <entry key="app/src/main/res/drawable/icon_notif.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/rounded_border_top.xml" value="0.23055555555555557" />
+        <entry key="app/src/main/res/layout/activity_all_event.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/activity_create_event.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.181065620100521" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/dialog_create_event_success.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/list_item_all_event.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/list_item_event.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/list_item_event_today.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/list_item_menu_home.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/partial_create_event.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/partial_description_event.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/partial_home.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/partial_image_event.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.2265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

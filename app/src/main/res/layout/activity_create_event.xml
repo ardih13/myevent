@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".view.ui.CreateEventActivity">
+
+    <include
+        android:id="@+id/viewToolbar"
+        layout="@layout/toolbar"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@id/lyButton"
+        app:layout_constraintTop_toBottomOf="@id/viewToolbar">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <View
+                android:id="@+id/viewEvent"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/margin_20"
+                android:background="@color/grey_F0F3F5" />
+
+            <include layout="@layout/partial_create_event" />
+
+
+            <View
+                android:id="@+id/viewImage"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/margin_20"
+                android:background="@color/grey_F0F3F5" />
+
+            <include layout="@layout/partial_image_event" />
+
+            <View
+                android:id="@+id/viewDescription"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/margin_20"
+                android:background="@color/grey_F0F3F5" />
+
+            <include layout="@layout/partial_description_event" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/margin_20"
+                android:background="@color/grey_F0F3F5" />
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+    <LinearLayout
+        android:id="@+id/lyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/margin_20"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <Button
+            android:id="@+id/btnSave"
+            style="@style/ButtonNavy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/selanjutnya"
+            android:textSize="@dimen/text_14" />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
